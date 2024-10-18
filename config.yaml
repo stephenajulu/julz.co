@@ -1,5 +1,5 @@
-title: Stackbit Agency Theme
-baseURL: /
+title: JULZ
+baseURL: https://julz.netlify.app
 taxonomies:
   stub: stub
 disableKinds:
