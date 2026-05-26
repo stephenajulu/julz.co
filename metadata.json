@@ -1,0 +1,6 @@
+{
+  "name": "JULZ Platform",
+  "description": "A minimal, authoritative landing page for JULZ, a sovereign tech R&D studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
